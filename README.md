@@ -1,3 +1,4 @@
+![logo](https://github.com/Didarul342/Didarul342/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Didarul Islam</h1>
 <h3 align="center">I am Studies in CSE at Daffodil International University.</h3>
 
