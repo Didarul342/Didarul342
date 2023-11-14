@@ -1,7 +1,7 @@
 ![logo](https://github.com/Didarul342/Didarul342/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Didarul Islam</h1>
-<h3 align="center">I am Studies in CSE at Daffodil International University.</h3>
+<h3 align="center">I'm Studying in CSE at Daffodil International University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didarul342&label=Profile%20views&color=0e75b6&style=flat" alt="didarul342" /> </p>
 
